@@ -18,7 +18,7 @@ cat > /usr/share/nginx/html/index.html <<EOF
 <html>
 <body style="background-color:$COLOR;">
 <h1 style="color:white;text-align:center;margin-top:20%;">
-Terraform EC2 LAB
+CI/CD PIPELINE SUCCESS
 <br>
 Hostname: $HOSTNAME
 </h1>
